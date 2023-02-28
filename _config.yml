@@ -1,0 +1,20 @@
+title: Saurzv's Blog
+email: srzv@duck.com
+description: I write blogs now :)
+author: Saurav
+baseurl: "/blog"
+url: "https://saurzv.github.io"
+
+# Social Profiles
+github_username: saurzv
+instagram_username: saurzv
+linkedin_username: saurzv
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
