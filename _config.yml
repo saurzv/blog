@@ -18,8 +18,8 @@ title: Z's Blog # the main title
 
 tagline: dead but dreaming # it will display as the sub-title
 
-# description: >- # used by seo meta and the atom feed
-#   A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # used by seo meta and the atom feed
+  If you are looking for an answer, I will save you some time. It's 42.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
